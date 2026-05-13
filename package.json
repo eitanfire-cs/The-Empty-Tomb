@@ -1,7 +1,6 @@
 {
   "name": "theemptytomb",
   "version": "1.0.0",
-  "description": "",
   "homepage": "https://github.com/eitanfire-cs/capstone-project-brennankline-cyber#readme",
   "bugs": {
     "url": "https://github.com/eitanfire-cs/capstone-project-brennankline-cyber/issues"
@@ -13,12 +12,14 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "index.js",
+  "description": "This is a website made to help Jefferson Academy students organize their classes",
+  "main": "index.html",
   "scripts": {
-    "lite": "lite-server",
-    "start": "npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "lite": "lite-server",
+  "start": "npm run lite",
+  "test": "echo \"Error: no test specified\" && exit 1"
   },
+
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
