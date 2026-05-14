@@ -329,6 +329,10 @@ body {
  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
+.sourcelinkcopyright {
+  font-size: 8px;
+}
+
 .card h4 {
  color: var(--text-light);
  font-weight: bold;
